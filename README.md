@@ -6,12 +6,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C5A59&width=435&lines=Hello%2C+my+name+is+Lucas)](https://git.io/typing-svg)
 
 
-
-<br>
-<br>
-
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lucas%20henrique%20&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+
 
 </div>
+
+
+<div align="center"> 
+<a href="https://www.instagram.com/lucashps05/" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/lucashenriquepereirasilva">
+</a>
+
+
+
+<br>
+<br>
